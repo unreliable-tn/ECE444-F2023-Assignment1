@@ -8,3 +8,6 @@ Activity 2
 
 Activity 3
 ![Screenshot 2023-09-14 at 00 52 33](https://github.com/unreliable-tn/ECE444-F2023-Assignment1/assets/82098467/29f29abc-2799-4244-90e9-6fa6ad34511a)
+
+Activity 4
+<img width="974" alt="Screenshot 2023-09-14 at 02 38 16" src="https://github.com/unreliable-tn/ECE444-F2023-Assignment1/assets/82098467/3e8f7a7f-da90-49b6-8cc5-632a6ffaa035">
